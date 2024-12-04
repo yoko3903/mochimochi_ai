@@ -1,0 +1,2 @@
+Point(x=1253, y=1064)→SBIアプリの座標位置
+Size(width=1920, height=1080)→画面のサイズ
